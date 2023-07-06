@@ -1,0 +1,104 @@
+#root {
+}
+
+.form__input .p-inputtext {
+	padding: 1em 1em !important;
+}
+
+.p-inputtext:enabled:focus,
+.p-inputtext:enabled:hover {
+	outline: 0 none;
+	outline-offset: 0;
+	box-shadow: none !important;
+	border-color: rgb(1, 171, 193) !important;
+}
+
+.popup__body::-webkit-scrollbar {
+	display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.popup__body {
+	-ms-overflow-style: none; /* IE and Edge */
+	scrollbar-width: none; /* Firefox */
+}
+.p-dialog {
+	background: #ffffffd8;
+}
+/* width */
+::-webkit-scrollbar {
+	width: 4px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+	background: #ffffffd8;
+	/* background: linear-gradient(0deg, rgba(255, 0, 0, 1) 0%, rgba(7, 0, 211, 1) 100%); */
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+	background: #01010113;
+	border-radius: 20rem;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+	background: #01abc1a9;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.popup__body {
+	-ms-overflow-style: none; /* IE and Edge */
+	scrollbar-width: none; /* Firefox */
+}
+
+.p-button-icon-only {
+	border: none !important;
+}
+
+/* TOOLTIP STYLING */
+.p-tooltip .p-tooltip-text {
+	box-shadow: none !important;
+	border-radius: 05em;
+	font-family: Manrope;
+}
+
+/* DROPDOWN */
+.p-dropdown-items-wrapper .p-dropdown-items .p-dropdown-item {
+	font-size: 15px;
+	font-weight: 600;
+}
+@media screen and (max-width: 1440px) {
+	.p-dropdown-items-wrapper .p-dropdown-items .p-dropdown-item {
+		font-size: 14px;
+	}
+}
+@media screen and (max-width: 1280px) {
+	.p-dropdown-items-wrapper .p-dropdown-items .p-dropdown-item {
+		font-size: 12.8px;
+	}
+}
+@media screen and (max-width: 1050px) {
+	.p-dropdown-items-wrapper .p-dropdown-items .p-dropdown-item {
+		font-size: 11px;
+	}
+	.navbar__Container {
+		height: 4.2em !important ;
+	}
+}
+.disabled {
+	opacity: 0.6;
+	pointer-events: none;
+}
+
+.dot {
+	height: 7px;
+	width: 7px;
+	background-color: currentcolor;
+	border-radius: 50%;
+	display: inline-block;
+	margin-right: 3px;
+	vertical-align: middle;
+}
+

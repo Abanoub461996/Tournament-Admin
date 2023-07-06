@@ -1,0 +1,89 @@
+.p-menuitem {
+	font-family: 'Manrope', sans-serif !important ;
+	font-size: 16px;
+}
+
+.p-menuitem-link span {
+	font-family: 'Manrope', sans-serif !important ;
+	font-weight: 600;
+}
+
+.p-menuitem .profileAvatar {
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	outline: 2px solid #01abc1;
+	outline-offset: 2px;
+	overflow: hidden;
+	border: 0px solid rgb(255, 255, 255);
+	box-shadow: 0 0 0 1px #fbfbfb;
+	width: 3em;
+	height: 3em;
+}
+
+.p-tieredmenu {
+	border-radius: 25px !important;
+	padding: 0 !important;
+	overflow: hidden;
+	font-weight: 600;
+}
+.p-tieredmenu .p-menu-separator {
+	margin: 0 !important;
+}
+.p-tieredmenu .p-menuitem-active a {
+	color: #01abc1 !important;
+	background: #01abc11a !important;
+}
+
+.p-tieredmenu .p-menuitem-link {
+	padding: 1em 1em;
+	gap: 0.5em;
+}
+.p-tieredmenu .p-menuitem-link:active {
+	border: none !important ;
+	outline: none !important;
+	box-shadow: none !important;
+}
+.p-tieredmenu .p-menuitem-text {
+	font-size: 1.124em;
+}
+.p-tieredmenu .p-menuitem-link svg path {
+	stroke: #1e1e1e;
+	stroke-width: 1.8px;
+}
+
+.p-tieredmenu .p-menuitem-active svg path {
+	stroke: #01abc1;
+}
+
+@media screen and (max-width: 1450px) {
+	.p-tieredmenu .p-menuitem-link {
+		font-size: 0.9em;
+	}
+	.p-tieredmenu .p-menuitem-text {
+		font-size: 15px;
+	}
+}
+
+.p-tieredmenu .p-menuitem-active a span {
+	font-family: 'Manrope', sans-serif !important ;
+	color: #01abc1 !important;
+}
+
+.p-tieredmenu .p-menuitem:first-child {
+	padding: 1.5em 0em 1em 1.5em;
+	/* padding: 1em; */
+	display: flex;
+}
+
+.p-tieredmenu .p-menuitem-link .icon {
+	filter: grayscale(100%);
+}
+
+.p-tieredmenu .p-menuitem-active .icon {
+	filter: grayscale(0%);
+}
+
+.p-tieredmenu .p-menuitem-link:not(.p-disabled):hover {
+	background-color: #a6d5fa57 !important;
+}

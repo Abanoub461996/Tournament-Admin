@@ -1,0 +1,58 @@
+.styleLabel{
+    font-weight: bolder;
+    margin-bottom: 0.8rem;
+}
+.styleCard{
+    border: 1px solid #0000001A !important;
+    background-color: #fff !important;
+}
+.styleCardBody{
+    padding: 2.5rem !important;
+}
+.p_invalid{
+    border: 1px solid red;
+}
+
+.leader__check {
+    font-weight: 600;
+    font-size: 14px;
+    color: #afafaf;
+    align-items: center;
+    gap: 4px;
+}
+.leader__check input[type='checkbox'] {
+    appearance: none;
+    background-color: #1e1e1e1a;
+    margin: 0;
+    font: inherit;
+    width: 1.5em;
+    height: 1.5em;
+    border: ipx solid #0000001a;
+    border-radius: 0.25em;
+    cursor: pointer;
+    display: grid;
+    place-content: center;
+    overflow: hidden;
+    
+}
+.leader__check input[type='checkbox']:before {
+    content: '';
+    width: 1.5em;
+    height: 1.5em;
+    transform: scale(0);
+    transition: 120ms transform ease-in-out;
+    background-image: url('../../assets/icons/teams/checked.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 0.15em;
+}
+
+.leader__check input[type='checkbox']:checked:before{
+    color: var(--main-color);
+    border: none;
+}
+
+.leader__check input[type='checkbox']:checked:before{
+    transform: scale(1) !important;
+}

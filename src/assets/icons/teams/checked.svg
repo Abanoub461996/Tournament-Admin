@@ -1,0 +1,33 @@
+<svg id="Component_59_60" data-name="Component 59 – 60" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #01abc1;
+        stroke: #01abc1;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Rectangle_151379" data-name="Rectangle 151379" class="cls-1">
+    <rect class="cls-3" width="24" height="24" rx="8"/>
+    <rect class="cls-4" x="0.5" y="0.5" width="23" height="23" rx="7.5"/>
+  </g>
+  <g id="check" transform="translate(-29.794 -34.869)">
+    <g id="Group_171290" data-name="Group 171290" transform="translate(36.767 42.869)">
+      <g id="Group_171289" data-name="Group 171289">
+        <path id="Path_43378" data-name="Path 43378" class="cls-2" d="M45.259,43.124a.925.925,0,0,1,1.32,1.295l-4.921,6.154a.925.925,0,0,1-1.332.025l-3.263-3.263a.925.925,0,1,1,1.307-1.307l2.583,2.581,4.283-5.457a.329.329,0,0,1,.025-.027Z" transform="translate(-36.767 -42.869)"/>
+      </g>
+    </g>
+  </g>
+</svg>

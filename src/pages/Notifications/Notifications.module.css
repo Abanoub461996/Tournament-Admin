@@ -1,0 +1,46 @@
+.notification_count{
+    border: 2px solid #0000001A;
+    padding: 1rem;
+    border-radius: 15px;
+    background-color: #fff;
+}
+.styleTextNotifications{
+    font-weight: bolder;
+}
+.notification_body{
+    border: 1px solid #0000001A;
+    padding: 1rem;
+    border-radius: 5px;
+}
+.dot{
+    height: 8px;
+    width: 8px;
+    background-color: #01ABC1;
+    border-radius: 50%;
+    display: inline-block;
+}
+.styleTime{
+    color: #707070;
+    padding-top: 0.7rem;
+}
+.aboveDot{
+    display: flex;
+    margin-top: 4px;
+}
+.styleUlList{
+    border: 1px solid #0000001A;
+    border-radius: 15px !important;
+}
+.borderStyleBottom{
+    cursor: pointer;
+    border-bottom: 1px solid #0000001A !important;
+    justify-content: center;
+    padding: 1.7rem !important;
+}
+
+@media only screen and (width: 1024px) {
+    .styleImage {
+      width: 15px;
+      height: 15px;
+    }
+  }

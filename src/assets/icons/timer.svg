@@ -1,0 +1,6 @@
+<svg id="timer" xmlns="http://www.w3.org/2000/svg" width="25.5" height="24" viewBox="0 0 25.5 24">
+  <path id="Vector" d="M18.594,8.75A9.039,9.039,0,0,1,9.3,17.5,9.039,9.039,0,0,1,0,8.75,9.039,9.039,0,0,1,9.3,0,9.039,9.039,0,0,1,18.594,8.75Z" transform="translate(3.453 4.5)" fill="none" stroke="#01abc1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path id="Vector-2" data-name="Vector" d="M0,0V5" transform="translate(12.75 8)" fill="none" stroke="#01abc1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path id="Vector-3" data-name="Vector" d="M0,0H6.375" transform="translate(9.563 2)" fill="none" stroke="#01abc1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path id="Vector-4" data-name="Vector" d="M0,0H25.5V24H0Z" fill="none" opacity="0"/>
+</svg>

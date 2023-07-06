@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <g id="Group_170348" data-name="Group 170348" transform="translate(-96 -6681)">
+    <circle id="Ellipse_409" data-name="Ellipse 409" cx="28" cy="28" r="28" transform="translate(96 6681)" fill="rgba(1,171,193,0.1)"/>
+    <circle id="Ellipse_410" data-name="Ellipse 410" cx="20" cy="20" r="20" transform="translate(104 6689)" fill="rgba(1,171,193,0.1)"/>
+    <g id="vuesax_linear_video-play" data-name="vuesax/linear/video-play" transform="translate(-124 6313)">
+      <g id="video-play">
+        <path id="Vector" d="M20,13V7c0-5-2-7-7-7H7C2,0,0,2,0,7v6c0,5,2,7,7,7h6C18,20,20,18,20,13Z" transform="translate(238 386)" fill="none" stroke="#01abc1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-2" data-name="Vector" d="M0,0H18.96" transform="translate(238.52 391.11)" fill="none" stroke="#01abc1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-3" data-name="Vector" d="M0,0V4.86" transform="translate(244.52 386.11)" fill="none" stroke="#01abc1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-4" data-name="Vector" d="M0,0V4.41" transform="translate(251.48 386.11)" fill="none" stroke="#01abc1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-5" data-name="Vector" d="M0,2.929v-1.2C0,.189,1.09-.441,2.42.329l1.04.6,1.04.6c1.33.77,1.33,2.03,0,2.8l-1.04.6-1.04.6C1.09,6.3,0,5.669,0,4.129v-1.2Z" transform="translate(245.75 395.521)" fill="none" stroke="#01abc1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-6" data-name="Vector" d="M0,0H24V24H0Z" transform="translate(236 384)" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

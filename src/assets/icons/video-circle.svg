@@ -1,0 +1,5 @@
+<svg id="video-circle" xmlns="http://www.w3.org/2000/svg" width="40.028" height="40.028" viewBox="0 0 40.028 40.028">
+  <path id="Vector" d="M0,6.032V3.564C0,.378,2.252-.906,5,.678L7.138,1.913,9.273,3.147c2.752,1.584,2.752,4.186,0,5.771L7.138,10.152,5,11.386C2.252,12.97,0,11.669,0,8.5Z" transform="translate(15.177 13.982)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path id="Vector-2" data-name="Vector" d="M33.357,16.678A16.678,16.678,0,1,1,16.678,0,16.678,16.678,0,0,1,33.357,16.678Z" transform="translate(3.336 3.336)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path id="Vector-3" data-name="Vector" d="M0,0H40.028V40.028H0Z" fill="none" opacity="0"/>
+</svg>

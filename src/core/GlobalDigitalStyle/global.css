@@ -1,0 +1,49 @@
+.p-inputtext:enabled:focus {
+	/* border-color: transparent!important; */
+	box-shadow: none !important;
+	outline: 0 none !important;
+	outline-offset: 0 !important;
+}
+
+.custom__button {
+	font-family: 'Manrope', sans-serif !important;
+	background-color: #01abc1;
+	color: white;
+	border-radius: 0.8em;
+	font-size: 1em;
+	font-weight: 700;
+	padding: 0.8em 1.5em;
+	border: none;
+	width: fit-content;
+}
+
+@media (max-width: '1680px') {
+	.custom__button {
+		font-size: 12px;
+	}
+}
+
+@media (max-width: '1280') {
+	.custom__button {
+		font-size: 12px;
+	}
+}
+
+@media (max-width: '1050') {
+	.custom__button {
+		font-size: 12px;
+	}
+}
+
+.custom__button:active {
+	background-color: #01abc1 !important;
+	border: none;
+}
+.custom__button:hover {
+	background-color: #0d4b4c !important ;
+	border: none;
+}
+.custom__button:focus {
+	box-shadow: none;
+	border: none;
+}

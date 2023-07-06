@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #1e1e1e;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.5px;
+      }
+
+      .cls-2 {
+        opacity: 0;
+      }
+    </style>
+  </defs>
+  <g id="vuesax_linear_message-question" data-name="vuesax/linear/message-question" transform="translate(-620 -252)">
+    <g id="message-question">
+      <path id="Vector" class="cls-1" d="M15,16H11L6.55,18.96A1,1,0,0,1,5,18.13V16a4.724,4.724,0,0,1-5-5V5A4.724,4.724,0,0,1,5,0H15a4.724,4.724,0,0,1,5,5v6A4.724,4.724,0,0,1,15,16Z" transform="translate(622 254.43)"/>
+      <path id="Vector-2" data-name="Vector" class="cls-1" d="M1.66,4.5V4.29A1.567,1.567,0,0,1,2.5,2.96a1.533,1.533,0,0,0,.82-1.3A1.66,1.66,0,1,0,0,1.66" transform="translate(630.34 258.86)"/>
+      <path id="Vector-3" data-name="Vector" class="cls-2" d="M0,0H24V24H0Z" transform="translate(620 252)"/>
+      <path id="Vector-4" data-name="Vector" class="cls-1" d="M.5.5H.5" transform="translate(631.5 265.25)"/>
+    </g>
+  </g>
+</svg>

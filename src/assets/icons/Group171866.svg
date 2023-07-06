@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g id="Group_171866" data-name="Group 171866" transform="translate(-96.226 -6681.226)">
+    <circle id="Ellipse_409" data-name="Ellipse 409" cx="32" cy="32" r="32" transform="translate(96.226 6681.226)" fill="rgba(101,167,67,0.1)"/>
+    <circle id="Ellipse_410" data-name="Ellipse 410" cx="23" cy="23" r="23" transform="translate(105.226 6690.226)" fill="rgba(101,167,67,0.1)"/>
+    <g id="vuesax_linear_music" data-name="vuesax/linear/music" transform="translate(114.35 6699.35)">
+      <g id="music">
+        <path id="Vector" d="M7.157,3.578A3.578,3.578,0,1,1,3.578,0,3.578,3.578,0,0,1,7.157,3.578Z" transform="translate(3.624 18.075)" fill="none" stroke="#65a743" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-2" data-name="Vector" d="M13.12,17.059V3.067C13.12.086,11.251-.327,9.359.189L2.2,2.138A2.857,2.857,0,0,0,0,5.017V19.433" transform="translate(10.781 2.208)" fill="none" stroke="#65a743" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-3" data-name="Vector" d="M7.157,3.578A3.578,3.578,0,1,1,3.578,0,3.578,3.578,0,0,1,7.157,3.578Z" transform="translate(16.744 15.689)" fill="none" stroke="#65a743" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-4" data-name="Vector" d="M0,3.578,13.12,0" transform="translate(10.781 7.34)" fill="none" stroke="#65a743" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-5" data-name="Vector" d="M0,0H27.525V27.525H0Z" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

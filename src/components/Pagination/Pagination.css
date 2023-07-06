@@ -1,0 +1,68 @@
+.p-paginator .p-paginator-pages .p-paginator-page, 
+.p-paginator .p-paginator-prev, .p-paginator .p-paginator-next {
+    background-color: #e1e1e1!important;
+    border: 0 none!important;
+    color: #fff!important;
+    min-width: 2rem!important;
+    height: 2rem!important;
+    margin: 0.143rem!important;
+    transition: box-shadow 0.2s!important;
+    border-radius: 5px!important;
+    font-family: "Manrope-SemiBold", sans-serif!important;
+}
+.p-paginator .p-paginator-pages .p-paginator-page.p-highlight  {
+    background: #01ABC1!important;
+    border-color: transparent!important;
+    border: none!important;
+    color: #fff!important;
+}
+.p-paginator .p-paginator-pages .p-paginator-page:not(.p-highlight):hover,  
+.p-paginator .p-paginator-prev:not(.p-disabled):not(.p-highlight):hover,
+ .p-paginator .p-paginator-next:not(.p-disabled):not(.p-highlight):hover
+ 
+ {
+    background-color: rgba(1, 171, 193, 0.1)!important;
+    color: #01ABC1!important;
+    border: none!important;
+
+}
+.showmore button {
+    background: #01ABC1!important;
+    border-color: transparent!important;
+    border: none!important;
+    color: #fff!important;
+    font-size: 1rem!important;
+    margin: 0 auto;
+}
+.showmore button:hover{
+    background-color: rgba(1, 171, 193, 0.1)!important;
+    color: #01ABC1!important;
+    border: 1px solid #01ABC1!important;
+}
+@media only screen and (max-width:1450px) {
+    .p-paginator .p-paginator-pages .p-paginator-page, 
+.p-paginator .p-paginator-prev, .p-paginator .p-paginator-next  {
+        min-width: 1.5rem!important;
+        height: 1.5rem!important;
+        font-size: 0.8rem!important;
+        line-height:normal!important;
+
+    }
+    .showmore button{
+        font-size: 0.8rem!important;
+        padding: 1.5em 3em!important;
+        height: 0.8rem!important;
+    }
+}
+@media only screen and (max-width:1050px) {
+    .p-paginator .p-paginator-pages .p-paginator-page, 
+.p-paginator .p-paginator-prev, .p-paginator .p-paginator-next  {
+        min-width: 1.5rem!important;
+        height: 1.5rem!important;
+        font-size: 0.8rem!important;
+    }
+}
+
+.p-link:focus {
+    box-shadow:none !important;
+}

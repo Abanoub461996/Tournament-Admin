@@ -1,0 +1,74 @@
+@import url('./assets/fonts/fonts.css');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+	--main-color: #01abc1;
+	--danger-color: #ff4a4a;
+	--success-color: #65a743;
+	--white: '#fff';
+	--pale-grey: #0000001a;
+	--btn-hover:#0D4B4C;
+}
+
+* {
+	font-family: 'Manrope', sans-serif;
+}
+
+body {
+	margin: 0 !important;
+	font-family: 'Manrope', sans-serif !important;
+	user-select: none;
+	min-height: 100vh;
+	background-color: #f9f9f9 !important;
+	position: relative;
+	font-size: 16px;
+}
+img{
+	object-fit: cover;
+}
+.gapedContainer {
+	padding: 1.75em 6em;
+	margin: auto;
+	background-color: #f9f9f9;
+}
+
+@media screen and (max-width: 1280px) {
+	.gapedContainer {
+		padding: 1.75em 5em;
+	}
+}
+
+
+.userTable th {
+	border: none !important;
+}
+
+.userTable tr {
+}
+
+/*------- Dialog --------- */
+.p-dialog .p-dialog-header {
+	padding: 1.5rem !important;
+}
+.p-dialog .p-dialog-content {
+	padding: 0 2rem 3rem 2rem !important ;
+}
+
+.p-dialog {
+	box-shadow: none !important ;
+	border-radius: 1em;
+	overflow: hidden;
+}
+
+/*------- Placeholder --------- */
+.p-dropdown-label,
+input,
+textarea,
+textarea::placeholder,
+select::placeholder,
+input::placeholder {
+	font-family: 'Manrope', sans-serif !important;
+}

@@ -1,0 +1,40 @@
+.popUpBody {
+	padding: 1em;
+	display: flex;
+	flex-direction: column;
+	gap: 0.5em;
+	max-height: 11.8rem;
+	width: 11.25em;
+	overflow-y: scroll;
+	overflow-x: hidden;
+	border-radius: 0.5rem;
+	font-size: 16px;
+	box-shadow: 0px 12px 20px #0000001a;
+	border: 1px solid #0000001a;
+	pointer-events: auto;
+}
+
+.popUpBody::-webkit-scrollbar {
+	display: none;
+}
+
+.memberParent {
+	display: flex;
+	align-items: center;
+	gap: 0.5em;
+}
+
+.popImg {
+	width: 2em;
+	height: 2em;
+	border-radius: 50%;
+}
+
+.memberName {
+	font-size: 0.6875em;
+	color: #808080;
+}
+
+.popover {
+	/* border:none */
+}
