@@ -1,0 +1,40 @@
+{
+	"extends": [
+		"eslint:recommended",
+		"plugin:react/recommended",
+		"plugin:react-hooks/recommended",
+		"plugin:import/recommended",
+		"plugin:jsx-a11y/recommended",
+		"plugin:@typescript-eslint/recommended",
+		"plugin:import/errors"
+	],
+	"settings": {
+		"react": {
+			"version": "detect"
+		},
+		"import/resolver": {
+			"node": {
+				"paths": ["src"],
+				"moduleDirectory": ["node_modules", "/src"],
+				"extensions": [".js", ".jsx", ".ts", ".tsx", ".svg"]
+			}
+			
+		}
+
+	},
+	"rules": {
+		"no-unused-vars": [
+			"warn",
+			{
+				"vars": "all",
+				"args": "after-used",
+				"ignoreRestSiblings": true,
+				"argsIgnorePattern": "^_"
+			}
+		],
+		"import/no-unresolved": [2, { "devDependencies": false }],
+		"import/named": "off",
+		"no-unresolved": "off",
+		"react/react-in-jsx-scope": "off"
+	}
+}
